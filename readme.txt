@@ -4,4 +4,5 @@
 
 data文件夹中存放着程序使用的原始语料数据和公共数据。
 
-anthor: 蔡健  phone：18141906005  mail: caijian16@mails.ucas.ac.cn
+anthor: jcai
+mail: jcai@mail.com
