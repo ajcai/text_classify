@@ -1,0 +1,5 @@
+./data/model/*
+./data/seg
+./data/lable
+./*.log
+*.py[cod]
